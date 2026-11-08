@@ -1,0 +1,20 @@
+# --- Secrets: NEVER commit these ---
+.env
+*.key
+
+# --- Duplicate of data/raw/reviews.csv left at the project root ---
+/reviews.csv
+
+# --- Python / Jupyter clutter ---
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# --- OS / editor clutter ---
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+~$*

@@ -1,0 +1,9 @@
+anthropic>=2.3
+pandas>=2.2
+numpy
+scikit-learn>=1.5
+matplotlib
+statsmodels
+python-dotenv
+jupyter
+nbconvert
