@@ -18,3 +18,9 @@ Thumbs.db
 desktop.ini
 .vscode/
 ~$*
+
+# --- Submitted separately on Canvas, not part of the repo ---
+docs/governance_memo.*
+docs/Governance Memo*
+docs/ai_use_logs/*
+!docs/ai_use_logs/.gitkeep

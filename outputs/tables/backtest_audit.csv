@@ -1,0 +1,7 @@
+sample size,pause if accuracy <,false-alarm rate (current Claude),detection rate (if accuracy fell to 65%),human time/week (20 s/review)
+30,0.65,0.0514,0.5002,10 min
+30,0.7,0.0958,0.6524,10 min
+30,0.75,0.3248,0.8692,10 min
+50,0.65,0.018,0.4954,17 min
+50,0.7,0.0708,0.7134,17 min
+50,0.75,0.3008,0.9404,17 min

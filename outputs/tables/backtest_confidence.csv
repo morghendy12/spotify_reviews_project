@@ -1,0 +1,6 @@
+threshold,"flag rate (all 2,997)",flag rate (gold 100),caught vs Morgan,% caught vs Morgan,caught vs Subbu,% caught vs Subbu,caught vs both,% caught vs both,error rate among flagged (vs Morgan),error rate among NOT flagged (vs Morgan),reviews/month to check at 10k/mo
+0.5,0.0364,0.03,3/22,0.1364,2/17,0.1176,2/8,0.25,1.0,0.1959,364
+0.6,0.1695,0.18,10/22,0.4545,10/17,0.5882,5/8,0.625,0.5556,0.1463,1695
+0.7,0.3851,0.41,20/22,0.9091,15/17,0.8824,8/8,1.0,0.4878,0.0339,3851
+0.8,0.4074,0.44,20/22,0.9091,16/17,0.9412,8/8,1.0,0.4545,0.0357,4074
+0.9,0.6406,0.71,21/22,0.9545,17/17,1.0,8/8,1.0,0.2958,0.0345,6406

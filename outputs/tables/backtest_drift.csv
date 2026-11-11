@@ -1,0 +1,4 @@
+rise threshold (pts),alerts,fired in April?,alerts fired
+3,5,True,2022-03: account_login (+8.8); 2022-04: playback_issues (+8.2); 2022-04: app_stability (+10.5); 2022-07: ads (+4.9); 2022-07: app_stability (+3.6)
+5,3,True,2022-03: account_login (+8.8); 2022-04: playback_issues (+8.2); 2022-04: app_stability (+10.5)
+8,3,True,2022-03: account_login (+8.8); 2022-04: playback_issues (+8.2); 2022-04: app_stability (+10.5)
