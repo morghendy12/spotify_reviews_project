@@ -1,0 +1,4 @@
+metric,Claude,baseline,gap,MDD,gap > MDD?,gap 95% CI,CI excludes 0?
+accuracy,0.805,0.42,0.385,0.1221,YES,"[0.29, 0.47]",YES
+macro_F1,0.7551,0.374,0.381,0.0838,YES,"[0.28, 0.48]",YES
+kappa,0.772,0.3355,0.4365,0.1368,YES,"[0.33, 0.54]",YES

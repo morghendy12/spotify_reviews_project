@@ -1,0 +1,12 @@
+,claude vs morgan,claude vs morgan,claude vs morgan,claude vs morgan,claude vs subbu,claude vs subbu,claude vs subbu,claude vs subbu,baseline vs morgan,baseline vs morgan,baseline vs morgan,baseline vs morgan,baseline vs subbu,baseline vs subbu,baseline vs subbu,baseline vs subbu
+,precision,recall,F1,support,precision,recall,F1,support,precision,recall,F1,support,precision,recall,F1,support
+ads,1.0,1.0,1.0,8,1.0,1.0,1.0,8,0.6667,1.0,0.8,8,0.6667,1.0,0.8,8
+playback_issues,0.7692,0.6667,0.7143,15,0.6154,0.7273,0.6667,11,1.0,0.0667,0.125,15,1.0,0.0909,0.1667,11
+app_stability,0.5385,0.5833,0.56,12,0.8462,0.6471,0.7333,17,0.3846,0.4167,0.4,12,0.7692,0.5882,0.6667,17
+ui_update_change,0.75,0.75,0.75,8,1.0,1.0,1.0,8,0.0,0.0,0.0,8,0.0,0.0,0.0,8
+free_tier_limits,0.4286,1.0,0.6,3,0.5714,0.8,0.6667,5,0.3333,0.3333,0.3333,3,0.3333,0.2,0.25,5
+offline_download,1.0,0.8,0.8889,5,1.0,1.0,1.0,4,0.5,0.6,0.5455,5,0.5,0.75,0.6,4
+account_login,0.75,1.0,0.8571,6,0.875,1.0,0.9333,7,0.4444,0.6667,0.5333,6,0.5556,0.7143,0.625,7
+content_recommend,0.75,0.6667,0.7059,9,0.625,0.5556,0.5882,9,0.1538,0.2222,0.1818,9,0.2308,0.3333,0.2727,9
+praise_no_issue,0.8929,0.9615,0.9259,26,1.0,0.9333,0.9655,30,0.5417,0.5,0.52,26,0.625,0.5,0.5556,30
+other,1.0,0.375,0.5455,8,0.0,0.0,0.0,1,0.0,0.0,0.0,8,0.0556,1.0,0.1053,1
