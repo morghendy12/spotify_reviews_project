@@ -1,0 +1,21 @@
+review_id,model,prompt_version,effort,stop_reason,input_tokens,output_tokens,label,confidence,evidence,error,cost_usd,seconds
+50033,claude-haiku-5-5,v1,low,end_turn,1150,50,praise_no_issue,0.95,"Good for finding most of the music I listen to, has versatile options",,0.00014,1.71
+12529,claude-haiku-5-5,v1,low,end_turn,1155,34,ads,0.9,the one problem is the adds,,0.0001325,1.72
+28648,claude-haiku-5-5,v1,low,end_turn,1129,35,ads,0.93,there starting to use to many adds,,0.0001304,2.52
+53114,claude-haiku-5-5,v1,low,end_turn,1167,39,praise_no_issue,0.85,Its simply the best ever.,,0.0001362,2.52
+4748,claude-haiku-5-5,v1,low,end_turn,1168,50,content_recommend,0.6,it keeps playing the other songs that I didn't add in my playlist,,0.0001418,0.87
+25583,claude-haiku-5-5,v1,low,end_turn,1207,34,ads,0.8,you have to see so many ads,,0.0001377,0.96
+45912,claude-haiku-5-5,v1,low,end_turn,1157,44,content_recommend,0.6,"have access to other variations of songs, such as remastered",,0.0001377,0.69
+5446,claude-haiku-5-5,v1,low,end_turn,1129,46,praise_no_issue,0.9,Fine efficient and gets most of the music I like.,,0.0001359,0.82
+50517,claude-haiku-5-5,v1,low,end_turn,1177,55,ads,0.97,THE ADDS man i cant get a good 20 mins qithout 11 adds in a row,,0.0001452,0.72
+61235,claude-haiku-5-5,v1,low,end_turn,1181,46,content_recommend,0.6,most Nintendo tracks aren't on Spotify,,0.0001411,0.88
+7450,claude-haiku-5-5,v1,low,end_turn,1145,53,ui_update_change,0.8,"Still prefer the old UI, but eh... What are you gonna do.",,0.000141,0.8
+14343,claude-haiku-5-5,v1,low,end_turn,1127,45,praise_no_issue,0.95,This song is so nice 10/10 I love it,,0.0001352,0.74
+55162,claude-haiku-5-5,v1,low,end_turn,1270,57,content_recommend,0.6,I was disappointed that he left them censoor 40+ episodes out of his catalog,,0.0001555,0.86
+4764,claude-haiku-5-5,v1,low,end_turn,1179,41,free_tier_limits,0.8,add more skips plz Spotify,,0.0001384,0.92
+381,claude-haiku-5-5,v1,low,end_turn,1133,41,free_tier_limits,0.6,should try to provide better quality for free,,0.0001338,0.75
+5584,claude-haiku-5-5,v1,low,end_turn,1152,40,content_recommend,0.6,i didn't find all lofi songs,,0.0001352,0.69
+20774,claude-haiku-5-5,v1,low,end_turn,1187,60,free_tier_limits,0.7,"""Even with just shuffle you could still make a playlist... you can't pick which song plays""",,0.0001487,0.94
+45018,claude-haiku-5-5,v1,low,end_turn,1159,54,ui_update_change,0.5,there has been changes made that were not mine and now I am having alot of difficult problems,,0.0001429,0.88
+44682,claude-haiku-5-5,v1,low,end_turn,1206,54,playback_issues,0.6,Does not display player in background or on lock screen even though that feature is turned on in settings,,0.0001476,0.83
+49253,claude-haiku-5-5,v1,low,end_turn,1161,49,offline_download,0.85,"Need to add a offline option, so that we can download some of our favourite song",,0.0001406,0.77
