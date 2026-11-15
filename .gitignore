@@ -22,5 +22,11 @@ desktop.ini
 # --- Submitted separately on Canvas, not part of the repo ---
 docs/governance_memo.*
 docs/Governance Memo*
+docs/written_summary.*
+docs/Written Summary*
 docs/ai_use_logs/*
 !docs/ai_use_logs/.gitkeep
+docs/Presentation*
+/Deliverables/
+/Governance Memo*
+/Written Summary*
